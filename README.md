@@ -74,3 +74,4 @@
 
 </div>
 
+https://www.dheeraj3choudhary.com/deploying-a-serverless-python-flask-app-on-aws-ecs-fargate-using-terraform/
